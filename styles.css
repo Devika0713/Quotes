@@ -1,0 +1,77 @@
+
+body{
+    background-size: 100% ;
+    text-align: center;
+}
+
+.box{
+position: relative;
+width: 60%;
+height: 70%;
+left: auto;
+top: auto;
+padding: 5%;
+margin: 8% auto auto auto;
+
+background: linear-gradient(360deg, rgba(0, 0, 0, 0.093) -27.08%, rgba(255, 255, 255, 0.093) 105.08%);
+box-shadow: 5px 10px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(85px);
+
+border-radius: 50px;
+}
+
+#quote{
+/* position: relative;
+width: 90%;
+height: 60%;
+left:7% ;
+top: 19% ; */
+
+font-family: Oswald;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 70px;
+
+
+text-align: center;
+
+color: #000000;
+};
+
+#time{
+
+/* position: relative;
+width: 10%;
+height: 5%;
+left: 27%;
+top: 25%; */
+font-family: Merriweather;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 12px;
+text-align: center;
+
+color: #0E3064;
+
+}
+
+
+#greeting{
+    /* padding: 30px 0 0 0;
+position: relative;
+width: 70%;
+height: 7%;
+left: 15%;
+top: 25%; */
+padding: 7px;
+font-family: Merriweather;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 57px;
+text-align: center;
+
+color: #0E3064;
+}
